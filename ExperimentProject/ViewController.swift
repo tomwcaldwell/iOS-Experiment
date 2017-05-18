@@ -10,6 +10,35 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var display: UILabel!
+    
+    @IBAction func touchDigit(_ sender: UIButton) {
+        
+        let digit = sender.currentTitle!
+        
+        print("\(digit) appeared!")
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
