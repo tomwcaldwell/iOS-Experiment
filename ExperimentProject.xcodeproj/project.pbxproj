@@ -57,11 +57,19 @@
 				8E5A61E21ECDF3BC0019C23F /* AppDelegate.swift */,
 				8E5A61E41ECDF3BC0019C23F /* ViewController.swift */,
 				8E5A61E61ECDF3BC0019C23F /* Main.storyboard */,
+				8E5A61F41ECDF3EE0019C23F /* Supporting Files */,
+			);
+			path = ExperimentProject;
+			sourceTree = "<group>";
+		};
+		8E5A61F41ECDF3EE0019C23F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
 				8E5A61E91ECDF3BC0019C23F /* Assets.xcassets */,
 				8E5A61EB1ECDF3BC0019C23F /* LaunchScreen.storyboard */,
 				8E5A61EE1ECDF3BC0019C23F /* Info.plist */,
 			);
-			path = ExperimentProject;
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
